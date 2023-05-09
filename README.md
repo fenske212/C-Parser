@@ -17,9 +17,9 @@
 
 //Example test case for Task 4
 
--make
+make
 
-- ./a.out 4 < testcases/Task_4/task4_test06.txt
+./a.out 4 < testcases/Task_4/task4_test06.txt
 
 FOLLOW(A043eSc) = { $, a043eSc, b043eSc, c043eSc, f043eSc, g043eSc }
 
