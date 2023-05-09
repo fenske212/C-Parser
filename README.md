@@ -14,7 +14,9 @@
 5 - Determining Predictive Parser (Y/N)
 
 
+
 //Example test case for Task 4
+
 -make
 
 - ./a.out 4 < testcases/Task_4/task4_test06.txt
