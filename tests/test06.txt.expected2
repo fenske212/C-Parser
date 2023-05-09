@@ -1,8 +1,0 @@
-A -> a B G C a
-A -> #
-B -> A C G C b
-B -> #
-C -> c C x
-C -> #
-G -> g G G G z
-G -> #
