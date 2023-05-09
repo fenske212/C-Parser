@@ -1,0 +1,7 @@
+FOLLOW(A043eSc) = { $, a043eSc, b043eSc, c043eSc, f043eSc, g043eSc }
+FOLLOW(B043eSc) = { a043eSc, b043eSc, c043eSc, g043eSc }
+FOLLOW(G043eSc) = { a043eSc, b043eSc, c043eSc, f043eSc, g043eSc, z043eSc }
+FOLLOW(C043eSc) = { a043eSc, b043eSc, c043eSc, x043eSc, g043eSc }
+FOLLOW(D043eSc) = { f043eSc, g043eSc }
+FOLLOW(F043eSc) = { a043eSc, b043eSc, c043eSc, f043eSc, g043eSc }
+FOLLOW(E043eSc) = { a043eSc, b043eSc, c043eSc, g043eSc }

@@ -1,0 +1,10 @@
+FIRST(S043eSc) = { #, F043eSc }
+FIRST(ABCCDF043eSc) = { F043eSc }
+FIRST(ABC043eSc) = { #, F043eSc }
+FIRST(CDF043eSc) = { F043eSc }
+FIRST(AB043eSc) = { #, F043eSc }
+FIRST(C043eSc) = { #, F043eSc }
+FIRST(A043eSc) = { #, F043eSc }
+FIRST(B043eSc) = { #, F043eSc }
+FIRST(CD043eSc) = { #, F043eSc }
+FIRST(D043eSc) = { #, F043eSc }

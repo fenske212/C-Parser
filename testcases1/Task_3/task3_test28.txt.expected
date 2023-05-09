@@ -1,0 +1,6 @@
+FIRST(A043eSc) = { a043eSc, aa043eSc, aaa043eSc, bb043eSc, bbb043eSc }
+FIRST(AA043eSc) = { aa043eSc, aaa043eSc, bb043eSc, bbb043eSc }
+FIRST(AAA043eSc) = { aaa043eSc, bb043eSc }
+FIRST(B043eSc) = { b043eSc, bb043eSc, bbb043eSc }
+FIRST(BB043eSc) = { bb043eSc }
+FIRST(BBB043eSc) = { bbb043eSc }

@@ -1,0 +1,10 @@
+FIRST(S043eSc) = { #, a043eSc, d043eSc, f043eSc, x043eSc, z043eSc, j043eSc, g043eSc }
+FIRST(A043eSc) = { #, a043eSc }
+FIRST(B043eSc) = { #, d043eSc, x043eSc }
+FIRST(C043eSc) = { #, x043eSc }
+FIRST(D043eSc) = { #, a043eSc, d043eSc, x043eSc, z043eSc }
+FIRST(E043eSc) = { #, a043eSc, d043eSc, x043eSc, z043eSc }
+FIRST(F043eSc) = { #, a043eSc, d043eSc, x043eSc, z043eSc, g043eSc }
+FIRST(G043eSc) = { #, a043eSc, d043eSc, x043eSc, z043eSc, g043eSc }
+FIRST(H043eSc) = { #, a043eSc, d043eSc, f043eSc, x043eSc, z043eSc, g043eSc }
+FIRST(I043eSc) = { #, a043eSc, d043eSc, x043eSc, z043eSc, j043eSc, g043eSc }

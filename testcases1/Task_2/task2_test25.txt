@@ -1,0 +1,7 @@
+B043eSc -> C043eSc *
+B043eSc -> y043eSc A043eSc *
+C043eSc -> A043eSc *
+A043eSc -> x043eSc A043eSc t043eSc *
+A043eSc -> f043eSc C043eSc *
+B043eSc -> x043eSc t043eSc *
+#

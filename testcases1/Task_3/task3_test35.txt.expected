@@ -1,0 +1,9 @@
+FIRST(S043eSc) = { k043eSc }
+FIRST(P043eSc) = { # }
+FIRST(L043eSc) = { # }
+FIRST(Q043eSc) = { k043eSc }
+FIRST(v043eSc) = { k043eSc }
+FIRST(W043eSc) = { # }
+FIRST(l043eSc) = { # }
+FIRST(p043eSc) = { k043eSc }
+FIRST(K043eSc) = { k043eSc }

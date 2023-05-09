@@ -1,0 +1,2 @@
+FIRST(E043eSc) = { e043eSc, f043eSc, b043eSc }
+FIRST(C043eSc) = { e043eSc, f043eSc, b043eSc, g043eSc }

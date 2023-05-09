@@ -1,0 +1,9 @@
+FOLLOW(S043eSc) = { $ }
+FOLLOW(P043eSc) = { k043eSc }
+FOLLOW(L043eSc) = { k043eSc }
+FOLLOW(Q043eSc) = { k043eSc }
+FOLLOW(v043eSc) = { k043eSc }
+FOLLOW(W043eSc) = { k043eSc }
+FOLLOW(l043eSc) = { k043eSc }
+FOLLOW(p043eSc) = { k043eSc }
+FOLLOW(K043eSc) = { $, k043eSc }

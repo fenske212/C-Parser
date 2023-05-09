@@ -1,0 +1,3 @@
+FIRST(S043eSc) = { a1043eSc }
+FIRST(C043eSc) = { a1043eSc }
+FIRST(B043eSc) = { #, b1043eSc }

@@ -1,0 +1,9 @@
+FIRST(S043eSc) = { e043eSc }
+FIRST(W043eSc) = { e043eSc }
+FIRST(V043eSc) = { e043eSc, i043eSc }
+FIRST(U043eSc) = { d043eSc, h043eSc }
+FIRST(T043eSc) = { a043eSc, g043eSc }
+FIRST(R043eSc) = { a043eSc, f043eSc, g043eSc }
+FIRST(Z043eSc) = { a043eSc, c043eSc, f043eSc, g043eSc }
+FIRST(Y043eSc) = { e043eSc, j043eSc }
+FIRST(X043eSc) = { b043eSc, e043eSc }

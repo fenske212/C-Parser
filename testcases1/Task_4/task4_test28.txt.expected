@@ -1,0 +1,6 @@
+FOLLOW(A043eSc) = { $ }
+FOLLOW(AA043eSc) = { $ }
+FOLLOW(AAA043eSc) = { $ }
+FOLLOW(B043eSc) = { $, bb043eSc, bbb043eSc }
+FOLLOW(BB043eSc) = { $, bb043eSc }
+FOLLOW(BBB043eSc) = { $, bbb043eSc }

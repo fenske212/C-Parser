@@ -1,0 +1,4 @@
+FOLLOW(Sh146043eSc) = { $ }
+FOLLOW(ACF043eSc) = { $, ti9043eSc }
+FOLLOW(EDA043eSc) = { $ }
+FOLLOW(FDA4043eSc) = { fp3043eSc, df4043eSc }

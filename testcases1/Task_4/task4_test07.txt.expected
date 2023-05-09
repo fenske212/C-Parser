@@ -1,0 +1,3 @@
+FOLLOW(X043eSc) = { $ }
+FOLLOW(W043eSc) = { $, c043eSc }
+FOLLOW(Y043eSc) = { $, c043eSc }

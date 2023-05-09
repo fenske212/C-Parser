@@ -1,0 +1,25 @@
+hashtable[0].push_back("A");
+    hashtable[0].push_back("B");
+    hashtable[1].push_back("c");
+    hashtable[1].push_back("d");
+    cout << hashtable[0][0] << " " << hashtable[0][1] <<
+      " " << hashtable[1][0] <<  " " << hashtable[1][1] << endl;
+
+      prints A B c d 
+
+      00 is the first bucket first element
+      01 is the first bucket second element
+      10 is the second bucket first element
+      11 is the second bucket second element
+
+  LHS: S S C S A B 
+RHS: A B C c a a A b 
+Rule: S A B S C C c S a A a A B b 
+RuleList: S A B S C C c S a A a A B b Generating Symbols:
+S -> A B 
+S -> C 
+C -> c 
+S -> a 
+B -> b 
+Reachable Symbols:
+B -> b 

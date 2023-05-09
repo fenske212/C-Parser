@@ -1,0 +1,6 @@
+FIRST(S043eSc) = { a043eSc }
+FIRST(A043eSc) = { a043eSc }
+FIRST(B043eSc) = { a043eSc }
+FIRST(C043eSc) = { a043eSc }
+FIRST(D043eSc) = { a043eSc }
+FIRST(E043eSc) = { a043eSc }

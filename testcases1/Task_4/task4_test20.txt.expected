@@ -1,0 +1,4 @@
+FOLLOW(E043eSc) = { $, c043eSc, j043eSc, f043eSc }
+FOLLOW(Y043eSc) = { c043eSc, j043eSc, f043eSc, a043eSc, d043eSc }
+FOLLOW(D043eSc) = { c043eSc, j043eSc, f043eSc }
+FOLLOW(B043eSc) = { c043eSc, j043eSc, f043eSc, a043eSc, d043eSc }

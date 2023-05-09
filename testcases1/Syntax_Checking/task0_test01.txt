@@ -1,0 +1,5 @@
+S043eSc -> C043eSc c1043eSc a1043eSc *
+C043eSc -> a1043eSc B043eSc *
+B043eSc -> *
+B043eSc -> b1043eSc a1043eSc B043eSc *
+#

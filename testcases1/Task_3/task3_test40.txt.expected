@@ -1,0 +1,4 @@
+FIRST(B043eSc) = { x043eSc, z043eSc, y043eSc, zz043eSc }
+FIRST(A043eSc) = { x043eSc, z043eSc, y043eSc }
+FIRST(C043eSc) = { x043eSc, z043eSc, y043eSc }
+FIRST(D043eSc) = { y043eSc }

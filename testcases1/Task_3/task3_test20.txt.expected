@@ -1,0 +1,4 @@
+FIRST(E043eSc) = { c043eSc, j043eSc, f043eSc, d043eSc }
+FIRST(Y043eSc) = { c043eSc, f043eSc }
+FIRST(D043eSc) = { #, d043eSc }
+FIRST(B043eSc) = { c043eSc, f043eSc }

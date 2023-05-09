@@ -1,0 +1,6 @@
+FOLLOW(X043eSc) = { $, j043eSc, g043eSc, a043eSc, e043eSc, i043eSc }
+FOLLOW(A043eSc) = { $, j043eSc, g043eSc, a043eSc, e043eSc, i043eSc }
+FOLLOW(W043eSc) = { j043eSc, a043eSc, i043eSc }
+FOLLOW(Z043eSc) = { j043eSc, g043eSc, a043eSc, e043eSc, i043eSc }
+FOLLOW(Y043eSc) = { $, j043eSc, g043eSc, a043eSc, e043eSc, i043eSc }
+FOLLOW(C043eSc) = { j043eSc, a043eSc, e043eSc, i043eSc }

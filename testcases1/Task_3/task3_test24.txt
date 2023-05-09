@@ -1,0 +1,5 @@
+S043eSc -> H043eSc *
+S043eSc -> Z043eSc g043eSc *
+H043eSc -> *
+Z043eSc -> *
+#

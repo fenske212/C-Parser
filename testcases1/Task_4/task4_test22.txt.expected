@@ -1,0 +1,10 @@
+FOLLOW(S043eSc) = { $ }
+FOLLOW(A043eSc) = { $, a043eSc, e043eSc, d043eSc, f043eSc, h043eSc, x043eSc, z043eSc, j043eSc, g043eSc, i043eSc }
+FOLLOW(B043eSc) = { $, a043eSc, c043eSc, e043eSc, d043eSc, f043eSc, h043eSc, x043eSc, z043eSc, j043eSc, g043eSc, i043eSc }
+FOLLOW(C043eSc) = { $, a043eSc, e043eSc, d043eSc, f043eSc, h043eSc, x043eSc, z043eSc, j043eSc, g043eSc, i043eSc }
+FOLLOW(D043eSc) = { $, a043eSc, e043eSc, d043eSc, f043eSc, h043eSc, x043eSc, z043eSc, j043eSc, g043eSc, i043eSc }
+FOLLOW(E043eSc) = { $, a043eSc, e043eSc, d043eSc, f043eSc, h043eSc, x043eSc, z043eSc, j043eSc, g043eSc, i043eSc }
+FOLLOW(F043eSc) = { $, a043eSc, e043eSc, d043eSc, f043eSc, h043eSc, x043eSc, z043eSc, j043eSc, g043eSc, i043eSc }
+FOLLOW(G043eSc) = { $, a043eSc, d043eSc, f043eSc, h043eSc, x043eSc, z043eSc, j043eSc, g043eSc, i043eSc }
+FOLLOW(H043eSc) = { $, i043eSc }
+FOLLOW(I043eSc) = { $ }
